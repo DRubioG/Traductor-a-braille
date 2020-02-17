@@ -5,5 +5,7 @@ Este es un proyecto básico realizado para la ayuda a las personas con algún ti
 
 Existen 3 ficheros
   - diccionario.py  ->  escribe la traducción en el propio terminal
+  ![](diccionario.gif)
   - diccionario1.py  ->  escribe la traducción en una interfaz gráfica creada con tkinter
   - diccionario.pyw  ->  es un fichero autoejecutable en windows con el código de diccionario1.py
+![](diccionario1.gif)
